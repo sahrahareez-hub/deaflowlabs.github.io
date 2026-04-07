@@ -1,16 +1,17 @@
 # Terms of Service
 **Last Updated: April 2026**
 
-By downloading or using any application from **Idea Flow Labs**, these terms automatically apply to you.
+By using apps from **Idea Flow Labs**, these terms automatically apply to you.
 
 ### 1. Disclaimer of Accuracy
-While we strive for 100% precision in our calculation, conversion, and tracking tools, all results are provided "as is." 
-* **Calculation Tools:** Always verify important financial or scientific calculations independently.
-* **Expiry Tracker:** We are not responsible for missed notifications or the consumption of expired items.
-* **Currency:** Rates are provided for informational purposes and may be delayed.
+We strive for 100% precision, but all tools are provided "as is":
+* **Conversion Tools:** Unit conversions (Area, Volume, Weight) are based on standard mathematical formulas. Always verify critical data for scientific or industrial use.
+* **Currency Converter:** Rates are provided for informational purposes only. Do not rely on them for high-value financial transactions as rates may be delayed.
+* **Expiry Tracker:** We are not liable for missed notifications or the consumption of expired items.
+* **Calculators:** Verify important financial or loan (EMI) calculations independently.
 
-### 2. Use of Service
-You agree not to attempt to extract the source code of the app or translate the app into other languages without our permission. The app, and all the trademarks, copyright, and other intellectual property rights related to it, belong to Idea Flow Labs.
+### 2. Intellectual Property
+The app, its logic, and all trademarks related to **Idea Flow Labs** belong to the developer. You may not decompile or reverse-engineer our tools.
 
-### 3. Changes
-We reserve the right to update these terms at any time. Your continued use of the apps constitutes acceptance of the new terms.
+### 3. Updates
+We reserve the right to modify or discontinue features to improve performance or security.
