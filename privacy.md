@@ -1,4 +1,4 @@
-#  Privacy Policy
+# Global Privacy Policy
 **Last Updated: April 2026**
 
 This Privacy Policy applies to all applications developed and published by **Idea Flow Labs** ("we," "our," or "us"). We are committed to protecting your privacy and ensuring a transparent user experience.
